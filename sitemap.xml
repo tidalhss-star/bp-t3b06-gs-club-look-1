@@ -1,39 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tidalhss-star.github.io/bp-t3b06-gs-club-look-1/</loc>
+    <loc>https://seoul-club-review.namanavi.com/</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://tidalhss-star.github.io/bp-t3b06-gs-club-look-1/about.html</loc>
+    <loc>https://seoul-club-review.namanavi.com/about.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tidalhss-star.github.io/bp-t3b06-gs-club-look-1/blog.html</loc>
+    <loc>https://seoul-club-review.namanavi.com/blog.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tidalhss-star.github.io/bp-t3b06-gs-club-look-1/posts/interview-001-69xg6k.html</loc>
+    <loc>https://seoul-club-review.namanavi.com/posts/interview-001-69xg6k.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://tidalhss-star.github.io/bp-t3b06-gs-club-look-1/posts/qa-001-1c4iyhz.html</loc>
+    <loc>https://seoul-club-review.namanavi.com/posts/qa-001-1c4iyhz.html</loc>
     <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://tidalhss-star.github.io/bp-t3b06-gs-club-look-1/feed.xml</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>
